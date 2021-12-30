@@ -1,0 +1,15 @@
+h1, p {
+  font-family: Lato;
+}
+.parent {
+  display: grid;
+  place-items: center;
+}
+
+.box {
+  width: clamp(23ch, 50%, 46ch);
+}
+#postsHome{
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
