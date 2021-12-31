@@ -1,5 +1,7 @@
 # react-infinite-scroll-js-demo
-This is a demo project to show infinite scrolling in react functional component. Live demo for the project is here : https://react-infinite-scroll-js-rfc.herokuapp.com/
+This is a demo project to show infinite scrolling in react functional component using IntersectionObserver. Live demo for the project is here : https://react-infinite-scroll-js-rfc.herokuapp.com/
+
+This demo uses IntersectionObserver to detect scrolling.
 
 Please note that I have not covered the case where the user reaches the last item. Feel free to add this according to your API. Also, all suggestions are welcomed. Feel free to raise an issue for any support you need. Feel free to use it as per your convinience.
 
